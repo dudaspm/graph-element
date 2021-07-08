@@ -1,1 +1,1 @@
-# <graph> element
+# \<graph\> element
